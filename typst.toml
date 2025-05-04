@@ -1,0 +1,11 @@
+[package]
+name = "template"
+version = "0.0.1"
+entrypoint = "lib.typ"
+authors = ["Tau"]
+license = "MIT"
+description = "个人使用的笔记模板"
+repository = "https://github.com/Tao-Boy/typst-note-template.git"
+keywords = ["Note"]
+categories = ["Note"]
+compiler = "0.13.1"
